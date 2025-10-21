@@ -8,7 +8,7 @@ savings = 0
 goal = 10000
 
 while savings < goal:
-    savings += 500  # deposit each week
+    savings += 500 
     print(f"Current savings: {savings}")
 
 
